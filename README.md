@@ -9,3 +9,5 @@
 ### Upcoming Features
 - Friend Request
 - Mentions and Tag
+- Instant Messaging
+- Role based permissions 
