@@ -1,5 +1,5 @@
 # myFeed
-## A Multidimensional Hub For Connecting Talents 
+## A talent hub for connecting professionals
 ### Current Features
 - User Registration 
 - Profile creation (Personal, Education, and Professional)
